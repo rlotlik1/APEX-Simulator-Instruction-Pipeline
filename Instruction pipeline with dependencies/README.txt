@@ -6,7 +6,7 @@ A simple implementation of 5 Stage APEX Pipeline
 
 Author :
 ---------------------------------------------------------------------------------
-Riya Lotlikar (rlotlik11@binghamton.edu)
+Riya Lotlikar (rlotlik1@binghamton.edu)
 State University of New York, Binghamton
 
 
@@ -39,6 +39,6 @@ How to compile and run
 2) Run using ./apex_sim <input file name>
 
 
-Please contact your TAs for any assistance or query!
+
 
 
